@@ -1,0 +1,29 @@
+/* css/resume.css */
+
+.resume-header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 12px;
+  border: 1px solid #dddddd;
+  border-radius: 10px;
+  background: #f6f7f9;
+}
+
+.resume-header h2 {
+  margin: 0;
+}
+
+.resume-section {
+  margin-top: 18px;
+  padding: 12px;
+  border: 1px solid #dddddd;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+.resume-section h2 {
+  margin-top: 0;
+}
